@@ -29,12 +29,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🧠 I'm passionate about building real-world web applications that solve user-centric problems
-- 🎓 I love working with **React**, **TypeScript**, **Spring Boot**, and **Java** to create robust solutions
-- 🧪 I apply **TDD**, **CI/CD**, and **clean architecture** across my projects
-- 🌱 Currently learning **Microservices** and **Cloud Architecture**
-- 💬 Ask me about **React, Java, Spring Boot, TypeScript**
-- ⚡ Fun fact: I love solving complex problems with elegant code solutions
+- 🧠 Passionate about creating beautiful interfaces and smooth user experiences
+- ⚙️ Specialized in **React**, **TypeScript**, **Next.js**, **Tailwind CSS**
+- 🧪 Practices: **Component-driven development**, **Responsive Design**, **Performance Optimization**
+- 🌱 Currently learning: Sveltejs
+- 💬 Ask me about: **React, UI/UX, Performance**
+
+---
+
 
 <br clear="both"/>
 
@@ -143,9 +145,20 @@ const quan = {
 ---
 
 ## 📊 GitHub Analytics
-<div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=quanns12&theme=tokyonight&hide_border=true&border_radius=4.9&short_numbers=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quanns12&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&icon_color=2BBC8A&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanns12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&text_color=C9D1D9" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=quanns12&theme=radical&hide_border=true&background=0D1117&stroke=2BBC8A&ring=2BBC8A&fire=2BBC8A&currStreakLabel=2BBC8A" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quanns12&theme=react-dark&bg_color=0D1117&color=2BBC8A&line=2BBC8A&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
