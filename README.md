@@ -43,17 +43,17 @@
 ## 👨‍💻 A little more about me...
 
 ```javascript
-const nam = {
+const quan = {
     pronouns: "he" | "him",
-    code: ["Java", "Python", "TypeScript", "JavaScript", "HTML", "CSS"],
-    tools: ["Spring Boot", "PostgreSQL", "MySQL", "SQL Server", "MongoDB", "JWT", "React", "Tailwind", "Jest"],
+    code: [ "JavaScript", "HTML", "CSS"],
+    tools: [ "SQL Server", "MongoDB", "JWT", "React", "Tailwind", "Jest"],
     architecture: ["RESTful API", "microservices", "event-driven", "design system pattern"],
     techCommunities: {
         contributor: "Open Source",
         learner: "100DaysOfCode",
         mentor: null
     },
-    challenge: "I am doing the #100DaysOfCode challenge focused on backend with Java and Spring Boot"
+    challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Javascript and some UI Framework"
 }
 ```
 
@@ -65,7 +65,7 @@ const nam = {
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🎨 Taranify color</h3>
+        <h3 align="center">Trọ Uni</h3>
         <div align="center">
   <a href="https://github.com/nam-techie/taranify_color" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-techie&repo=taranify_color&theme=radical" alt="Taranify Color" />
@@ -76,7 +76,7 @@ const nam = {
     <a href="https://github.com/nam-techie/taranify_color" target="_blank">
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     </a>
-    <a href="https://nam-techie.github.io/taranify_color/" target="_blank">
+    <a href="https://tro-uni.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
     </a>
   </p>
