@@ -1,13 +1,13 @@
 <!-- GitHub Profile README for nam-techie -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fff&animation=fadeIn](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Nguyễnn%20Quânn%20Say%20Hi&textBg=false&animation=fadeIn" width="100%" />
 </div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ph%C6%B0%C6%A1ng+Nam;Fullstack+Developer;React+%E2%80%A2+Spring+Boot+%E2%80%A2+Java;Always+Learning+New+Things!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">💻 Fullstack Developer | React • Spring Boot • Java • TypeScript 🚀</h3>
+<h3 align="center">💻 Front End Developer | React • JavaScript • TypeScript 🚀</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/91324919/230763869-9964cb26-10a9-4a23-9b70-b60d8710f443.gif" width="300" alt="Coding Animation" />
