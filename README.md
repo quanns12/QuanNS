@@ -1,10 +1,10 @@
 <!-- GitHub Profile README for nam-techie -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fff&animation=fadeIn](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Nguyễnn%20Quânn%20Say%20Hi&textBg=false&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fff&animation=fadeIn" width="100%" />
 </div>
 
 <h1 align="center">
-  <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B11C&background=000000DA&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Quann+Nguyenn;Front+End+Developer+;React+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B11C&background=000000DA&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Quann+Nguyenn;Front+End+Developer+;React+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💻 Front End Developer | React • JavaScript • TypeScript 🚀</h3>
