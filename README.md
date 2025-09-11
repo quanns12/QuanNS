@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ph%C6%B0%C6%A1ng+Nam;Fullstack+Developer;React+%E2%80%A2+Spring+Boot+%E2%80%A2+Java;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B11C&background=000000DA&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Quann+Nguyenn;Front+End+Developer+;React+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+" alt="Typing SVG" /></a>" />
 </h1>
 
 <h3 align="center">💻 Front End Developer | React • JavaScript • TypeScript 🚀</h3>
