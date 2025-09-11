@@ -156,7 +156,17 @@ const quan = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nam-techie&theme=react-dark&bg_color=0D1117&color=2BBC8A&line=2BBC8A&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+---
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&icon_color=2BBC8A&text_color=C9D1D9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&text_color=C9D1D9" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=2BBC8A&ring=2BBC8A&fire=2BBC8A&currStreakLabel=2BBC8A" alt="GitHub Streak" />
+</div>
 ---
 
 ## 🏆 GitHub Trophies
