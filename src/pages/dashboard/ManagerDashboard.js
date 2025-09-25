@@ -1,7 +1,7 @@
 import { Outlet, Link, useLocation } from "react-router-dom";
 import { useAuth } from "../../contexts/AuthContext";
 
-export default function TenantDashboard() {
+export default function ManagerDashboard() {
   const { currentUser } = useAuth();
   const location = useLocation();
   return (
@@ -11,9 +11,9 @@ export default function TenantDashboard() {
         <div className="col-md-3 mb-4">
           <div className="list-group">
             <Link
-              to="/dashboard/tenant/profile"
+              to="/dashboard/manager/profile"
               className={`list-group-item list-group-item-action${
-                location.pathname.includes("/dashboard/tenant/profile")
+                location.pathname.includes("/dashboard/manager/profile")
                   ? " active"
                   : ""
               }`}
@@ -21,29 +21,9 @@ export default function TenantDashboard() {
               Thông tin cá nhân
             </Link>
             <Link
-              to="/dashboard/tenant/favorites"
+              to="/dashboard/manager/notifications"
               className={`list-group-item list-group-item-action${
-                location.pathname.includes("/dashboard/tenant/favorites")
-                  ? " active"
-                  : ""
-              }`}
-            >
-              Phòng yêu thích
-            </Link>
-            <Link
-              to="/dashboard/tenant/appointments"
-              className={`list-group-item list-group-item-action${
-                location.pathname.includes("/dashboard/tenant/appointments")
-                  ? " active"
-                  : ""
-              }`}
-            >
-              Lịch hẹn xem phòng
-            </Link>
-            <Link
-              to="/dashboard/tenant/notifications"
-              className={`list-group-item list-group-item-action${
-                location.pathname.includes("/dashboard/tenant/notifications")
+                location.pathname.includes("/dashboard/manager/notifications")
                   ? " active"
                   : ""
               }`}
@@ -51,9 +31,9 @@ export default function TenantDashboard() {
               Thông báo
             </Link>
             <Link
-              to="/dashboard/tenant/settings"
+              to="/dashboard/manager/settings"
               className={`list-group-item list-group-item-action${
-                location.pathname.includes("/dashboard/tenant/settings")
+                location.pathname.includes("/dashboard/manager/settings")
                   ? " active"
                   : ""
               }`}
